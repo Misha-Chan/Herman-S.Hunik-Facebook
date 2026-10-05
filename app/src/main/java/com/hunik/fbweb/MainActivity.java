@@ -22,7 +22,7 @@ import java.io.InputStream;
 
 public class MainActivity extends Activity {
 
-    private static final String START_URL = "https://mbasic.facebook.com/";
+    private static final String START_URL = "https://m.facebook.com/";
 
     private WebView web;
     private String injection;
